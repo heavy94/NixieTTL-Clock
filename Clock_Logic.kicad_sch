@@ -1639,7 +1639,6 @@
     )
   )
 
-
   (junction (at 262.382 36.576) (diameter 0) (color 0 0 0 0)
     (uuid 296ded40-ed53-4798-8db4-dad7b794226b)
   )
@@ -2032,10 +2031,10 @@
     (property "Reference" "U8" (id 0) (at 255.27 41.529 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 264.033 41.529 0)
+    (property "Value" "74LS20" (id 1) (at 264.033 41.529 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 262.382 50.546 0)
+    (property "Footprint" "Package_DIP:DIP-14_W7.62mm" (id 2) (at 262.382 50.546 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS20" (id 3) (at 262.382 50.546 0)

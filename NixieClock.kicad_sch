@@ -77,6 +77,18 @@
   )
 
   (symbol_instances
+    (path "/00000000-0000-0000-0000-00005e9597b1/4d2f8b0f-0125-4306-86b9-dec32a6142d6"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/84fa22d5-7b94-40e7-b102-8ed466ad8101"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/5c31cc22-ef91-4cb2-806e-a0afc8e57c9f"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/84d0d2be-bdc2-4f00-9000-13974cca795d"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005cce591b/00000000-0000-0000-0000-00005cd22c46"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
@@ -515,6 +527,15 @@
     (path "/00000000-0000-0000-0000-00005e142a7a/00000000-0000-0000-0000-00005e911c77/00000000-0000-0000-0000-00005efbbd8b"
       (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005e9597b1/159fe2dd-73da-44a1-bd7a-c051de47c7d1"
+      (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/ec78665f-a77e-4d14-a7b5-f67a5abcc15c"
+      (reference "#PWR0148") (unit 1) (value "HT") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/7eb67d74-efe4-4471-a02a-85bdd6c572b1"
+      (reference "#PWR0149") (unit 1) (value "+12V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005cce591b/00000000-0000-0000-0000-00005eaafbc2"
       (reference "C1") (unit 1) (value "1u 250V") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm")
     )
@@ -900,10 +921,10 @@
       (reference "R50") (unit 1) (value "11k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005e9597b1/00000000-0000-0000-0000-00005e969172"
-      (reference "R51") (unit 1) (value "1.69") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R51") (unit 1) (value "1R69") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005e9597b1/00000000-0000-0000-0000-00005e969772"
-      (reference "R52") (unit 1) (value "1.69") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R52") (unit 1) (value "1R69") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005e9597b1/00000000-0000-0000-0000-00005e95aea2"
       (reference "R53") (unit 1) (value "1k24") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")

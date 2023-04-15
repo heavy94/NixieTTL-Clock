@@ -77,6 +77,18 @@
   )
 
   (symbol_instances
+    (path "/00000000-0000-0000-0000-00005e9597b1/2cc34695-ca80-476a-b075-86c1ba3adee3"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/babd8430-64da-4c51-ac05-a7370cfe3ab5"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/c95c1208-ae02-4325-b60a-9657fdec879c"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/b7a5cd8e-1c4c-436d-b9bf-0d0350d520da"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005cce591b/00000000-0000-0000-0000-00005cd22c46"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
@@ -514,6 +526,15 @@
     )
     (path "/00000000-0000-0000-0000-00005e142a7a/00000000-0000-0000-0000-00005e911c77/00000000-0000-0000-0000-00005efbbd8b"
       (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/f462e22d-688c-4b5f-869d-680dd67ff37e"
+      (reference "#PWR0147") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/059e473d-1eff-40ab-ab25-50f66b6fa3d7"
+      (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e9597b1/eb69472a-977d-4cad-9dca-3e0f9b903de9"
+      (reference "#PWR0149") (unit 1) (value "HT") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005cce591b/00000000-0000-0000-0000-00005eaafbc2"
       (reference "C1") (unit 1) (value "1u 250V") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm")
